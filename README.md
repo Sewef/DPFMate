@@ -1,4 +1,4 @@
-# DPFMate
+# DPFMate 5.0.4.2
 DPFMate tested on Windows 10 as 04 august 2023 (22H2)
 
 Quick steps:
